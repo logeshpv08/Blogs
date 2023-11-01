@@ -1,0 +1,43 @@
+body {
+    background-image: url(images/background.jpg);
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    width: 80%;
+    height: 20px solid #fff;
+    font-family: sans-serif;
+    padding: 5px;
+    margin: 3px auto;
+    max-width: 1200px;
+}
+.blog{
+    margin-bottom: 20px;
+}
+.date{
+    color: #fff;
+    letter-spacing: 0.2rem ;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+/* .paragraph{
+    border-left: 5px solid #2370a5;
+    padding-left: 5px;
+} */
+h2{
+    font-size: 2.0rem;
+    color: #fff;
+}
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid #fff;
+    border-bottom: 1px;
+}
+p{
+    color: #fff;
+    font-weight: 600;
+}
+h3{
+    font-size: 1.3rem;
+    color: #fff;
+}
